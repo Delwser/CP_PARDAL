@@ -2,9 +2,9 @@
 
 *==Como usar?==
 
-*** •  pip install requests
+***•  pip install requests
 
-*** •  python3 cp.py
+***•  python3 cp.py
 
 Definir ip: (Exemplo: example.com) - ("Não é necessário usar o https://")
 
